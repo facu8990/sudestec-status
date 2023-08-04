@@ -1,22 +1,22 @@
 [
   {
     "name": "Sudestec Cloud",
-    "url": "https://cloud.sudeste.ar",
+    "url": "https://cloud.sudeste.ar/login",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.sudeste.ar.ico",
     "slug": "sudestec-cloud",
     "status": "down",
-    "uptime": "1.26%",
-    "uptimeDay": "1.26%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "1.26%",
-    "uptimeYear": "1.26%",
-    "time": 189,
-    "timeDay": 189,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 2
     }
   },
   {
@@ -25,38 +25,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.sudeste.ar.ico",
     "slug": "sudestec-app",
     "status": "down",
-    "uptime": "5.20%",
-    "uptimeDay": "5.20%",
-    "uptimeWeek": "5.20%",
-    "uptimeMonth": "5.20%",
-    "uptimeYear": "5.20%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 2
     }
   },
   {
     "name": "Sudestec API",
-    "url": "https://api.sudeste.ar/_/",
+    "url": "https://api.sudeste.ar/_/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/api.sudeste.ar.ico",
     "slug": "sudestec-api",
     "status": "down",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 2
     }
   }
 ]
