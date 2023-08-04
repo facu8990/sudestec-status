@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Sudestec Cloud
-    url: https://cloud.sudeste.ar
+    url: https://cloud.sudeste.ar/login
   - name: Sudestec App
     url: https://app.sudeste.ar
   - name: Sudestec API
-    url: https://api.sudeste.ar/_/
+    url: https://api.sudeste.ar/_/#/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
